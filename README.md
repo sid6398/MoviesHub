@@ -27,5 +27,5 @@ Movies Hub is a modern, responsive web application built with **ReactJS** that a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sid6398/MoviesHub.git
+   git clone https://github.com/siddhesh-mithbavkar/MoviesHub.git
    cd movies-hub
